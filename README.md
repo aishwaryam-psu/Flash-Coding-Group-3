@@ -1,3 +1,3 @@
 # Flash-Coding-Group-3
 
-![](pictures/Maseeh.jpg)
+<img src="pictures/Maseeh.jpg" alt="Fariborz Maseeh Hall">
